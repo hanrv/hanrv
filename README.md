@@ -9,6 +9,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=hanrv&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/hanrv)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=hanrv-48&theme=material-palenight)](https://github.com/hanrv)
+</div>
 <!--
 **hanrv/hanrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
