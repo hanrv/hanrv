@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Johan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
 
 ### 🛠️ I'm learning:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
