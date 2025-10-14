@@ -9,6 +9,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About me:
+- 🧠 Interested in software development, artificial intelligence, and code optimization.
+- ☕ Fueled by coffee and curiosity.
+- 📈 I believe that consistent practice is the key to improvement.
+- 🚀 Dreaming of building projects that inspire and help others.
+
 <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=hanrv&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/hanrv)
