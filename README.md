@@ -5,7 +5,12 @@
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; I'm learning:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,java,git,github" />
+  <!-- Stack .NET & Base de datos -->
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# y .NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="48" height="48" alt="ASP.NET" style="vertical-align: top; margin: 0 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="Microsoft SQL Server" style="vertical-align: top; margin-left: 4px;" />
+  <!-- Otras tecnologías -->
+  <img src="https://skillicons.dev/icons?i=cpp,java,git,github" alt="Otros lenguajes y herramientas" />
 </div>
 
 ---
