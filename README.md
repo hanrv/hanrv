@@ -5,7 +5,7 @@
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; I'm learning:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,java,git,github" />
 </div>
 
 ---
@@ -15,22 +15,14 @@
 - 📈 I believe that consistent practice is the key to improvement.
 - 🚀 Dreaming of building projects that inspire and help others.
 
-<h2>Github stats:</h2> 
+---
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; GitHub Stats:
 
-[![](https://github-readme-stats.vercel.app/api?username=hanrv&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/hanrv)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=hanrv-48&theme=material-palenight)](https://github.com/hanrv)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanrv&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanrv&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+</p>
 
-<!--
-**hanrv/hanrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanrv&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+</p>
