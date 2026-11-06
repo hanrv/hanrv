@@ -19,8 +19,8 @@
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanrv&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanrv&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hanrv&theme=tokyonight" alt="Estadísticas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanrv&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
